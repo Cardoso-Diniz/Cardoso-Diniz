@@ -2,10 +2,10 @@
  ## 👨‍💻 Guilherme Cardoso
 
 ### Eae, tranquilo?
- Meu nome é Guilherme, sou estudante de Desenvolvimento de Sistemas no Senai de Informatica e aprendo hacking no tempo livre 😜
+ Meu nome é Guilherme, sou estudante de Desenvolvimento de Sistemas no Senai de Informatica😜
  - 📚 Cursando Desenvolvimento de Sistemas.
  - 🧐 Disposto e aberto a novas oportunidades.
- - 🙋🏼‍♂️ Sobre mim: Gosto de series, esportes, ctfs e principalmente programação !!!
+ - 🙋🏼‍♂️ Sobre mim: Gosto de series, esportes, games e etc.
 
 
 > 🚀 **“Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”** 💻
