@@ -18,7 +18,7 @@
 ## <p align="center"> Rede Sociais!!</p>
 <table align="center">
   <tr>
-    <th>Integrantes</th>
+    <th>Eu</th>
     <th>Github</th>
     <th>E-mail</th>
     <th>Linkedin</th>
