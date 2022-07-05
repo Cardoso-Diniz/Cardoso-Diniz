@@ -3,7 +3,7 @@
 
 ### Eae, tranquilo?
  Meu nome é Guilherme, sou estudante de Desenvolvimento de Sistemas no Senai de Informatica😜
- - 📚 Cursando Desenvolvimento de Sistemas.
+ - 📚 Desenvolvimento de Sistemas.
  - 🧐 Disposto e aberto a novas oportunidades.
  - 🙋🏼‍♂️ Sobre mim: Gosto de series, esportes, games e etc.
 
